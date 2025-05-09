@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464418599165",
+    "firebase_url": "https://fasum-app-dec51-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fasum-app-dec51",
+    "storage_bucket": "fasum-app-dec51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464418599165:android:ee64c7fae255ad1e6b4e94",
+        "android_client_info": {
+          "package_name": "com.mdp.fasum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwPzUzCXk2MHK17O9lpgmMljHy9GXG0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
